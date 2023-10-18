@@ -91,7 +91,7 @@ $(function(){
 <h3 class="alert alert-primary">
     <?= $title ?>
     <input id="action_save" type="button" value="CSV保存" class="btn btn-primary ms-3">
-    <a href="." class="btn btn-secondary btn-sm folder me-4">フォルダ</a>
+    <a href=".." class="btn btn-secondary btn-sm folder me-4">フォルダ</a>
 </h3>
 <div id="content">
 
